@@ -1,0 +1,69 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "romkatv/powerlevel10k"
+brew "bat"
+brew "coreutils"
+brew "exa"
+brew "fasd"
+brew "fd"
+brew "fzf"
+brew "git"
+brew "go"
+brew "h2"
+brew "htop"
+brew "httpie"
+brew "lua"
+brew "luarocks"
+brew "mas"
+brew "ncdu"
+brew "neovim"
+brew "nvm"
+brew "python@3.8"
+brew "ripgrep-all"
+brew "ruby"
+brew "rust"
+brew "tldr"
+brew "tmux"
+brew "zsh"
+brew "zsh-autosuggestions"
+brew "zsh-completions"
+brew "zsh-git-prompt"
+brew "zsh-navigation-tools"
+brew "zsh-syntax-highlighting"
+brew "zsh-you-should-use"
+brew "zshdb"
+brew "romkatv/powerlevel10k/powerlevel10k"
+cask "anaconda"
+cask "github"
+mas "1Password 7", id: 1333542190
+mas "Affinity Designer", id: 824171161
+mas "Affinity Photo", id: 824183456
+mas "Airmail", id: 918858936
+mas "Amphetamine", id: 937984704
+mas "Developer", id: 640199958
+mas "FileZilla Pro", id: 1298486723
+mas "GoodNotes", id: 1444383602
+mas "HyperDock", id: 449830122
+mas "Keynote", id: 409183694
+mas "Magnet", id: 441258766
+mas "Microsoft Excel", id: 462058435
+mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Outlook", id: 985367838
+mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Microsoft Word", id: 462054704
+mas "MindNode", id: 1289197285
+mas "NordVPN IKE", id: 1116599239
+mas "Noted", id: 1446580517
+mas "OneDrive", id: 823766827
+mas "PasteBox", id: 928940999
+mas "Pixave", id: 924891282
+mas "PopBoardz", id: 980127370
+mas "PopClip", id: 445189367
+mas "Save to Medium", id: 1485294824
+mas "Save to Pocket", id: 1477385213
+mas "Spark", id: 1176895641
+mas "Xcode", id: 497799835
+mas "반디집", id: 1265704574
+mas "베어", id: 1091189122
