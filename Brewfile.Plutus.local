@@ -21,7 +21,7 @@ brew "mas"
 brew "ncdu"
 brew "neovim"
 brew "nvm"
-brew "python@3.8"
+brew "python@3.8", link: true
 brew "ripgrep-all"
 brew "ruby"
 brew "rust"
@@ -69,3 +69,4 @@ mas "Spark", id: 1176895641
 mas "Xcode", id: 497799835
 mas "반디집", id: 1265704574
 mas "베어", id: 1091189122
+mas "카카오톡", id: 869223134
