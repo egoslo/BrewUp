@@ -12,7 +12,7 @@ brew "git"
 brew "go"
 brew "h2"
 brew "htop"
-brew "python@3.9", link: false
+brew "python@3.9"
 brew "httpie"
 brew "iproute2mac"
 brew "kotlin"
